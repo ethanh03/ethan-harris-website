@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/ethan-harris-website/static/css/main.3d9b1839.css",
-    "main.js": "/ethan-harris-website/static/js/main.5477f0de.js",
+    "main.js": "/ethan-harris-website/static/js/main.df9bb768.js",
     "static/js/453.86d436bf.chunk.js": "/ethan-harris-website/static/js/453.86d436bf.chunk.js",
     "static/media/Ethan_Headshot2.JPG": "/ethan-harris-website/static/media/Ethan_Headshot2.06ec6747c7d4b4e88a6e.JPG",
-    "static/media/games.jpg": "/ethan-harris-website/static/media/games.432e9b64ed7815574110.jpg",
     "static/media/mail.jpg": "/ethan-harris-website/static/media/mail.f8956154d5eb279fbb2f.jpg",
     "index.html": "/ethan-harris-website/index.html",
     "main.3d9b1839.css.map": "/ethan-harris-website/static/css/main.3d9b1839.css.map",
-    "main.5477f0de.js.map": "/ethan-harris-website/static/js/main.5477f0de.js.map",
+    "main.df9bb768.js.map": "/ethan-harris-website/static/js/main.df9bb768.js.map",
     "453.86d436bf.chunk.js.map": "/ethan-harris-website/static/js/453.86d436bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d9b1839.css",
-    "static/js/main.5477f0de.js"
+    "static/js/main.df9bb768.js"
   ]
 }
