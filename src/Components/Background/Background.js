@@ -5,7 +5,7 @@ import { Link, Element, animateScroll as scroll } from 'react-scroll';
 
 const Background = () => {
   return (
-    <div className='background-container'>
+    <div id='home' className='background-container'>
         <div className="background-text">
           <h1>Ethan Harris</h1>
           <p>Contact me: ethan.j.harris@gmail.com</p>

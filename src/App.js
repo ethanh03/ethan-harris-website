@@ -11,7 +11,7 @@ import Biosynthetica from './pages/Biosynthetica';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ethan-harris-website">
       <Navbar/>
       <Routes>
         <Route path="/" element={
