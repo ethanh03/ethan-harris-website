@@ -13,11 +13,11 @@ const GamesPage = () => {
     ];
 
     return (
-        <div className='games-page'>
+        <div className='gamespage-page'>
             <h1>Games</h1>
-            <div className='games-list'>
+            <div className='gamespage-grid'>
                 {games.map(game => (
-                    <div key={game.id} className='game-card'>
+                    <div key={game.id} className='gamespage-card'>
                         <h2>{game.title}</h2>
                         <p>{game.description}</p>
                         <p><strong>Tech Used:</strong> {game.tech}</p>

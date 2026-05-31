@@ -19,12 +19,12 @@ const Biosynthetica = () => {
     }
 
     return (
-        <div className='biosynthetica'>
+        <div className='game-page'>
             <Link to="/games" className='back-link'>Back to Games</Link>
             <h1>{game.title}</h1>
             <p className='game-description'>{game.description}</p>
             <div className='game-play'>
-                <iframe src="https://itch.io/embed/4629190" frameborder="0" width="552" height="167"><a href="https://ethanh03.itch.io/biosynthetica">Biosynthetica by ethanh03</a></iframe>
+                <iframe src="https://itch.io/embed/4629190" frameborder="0" width="100%" height="600" allowFullScreen><a href="https://ethanh03.itch.io/biosynthetica">Biosynthetica by ethanh03</a></iframe>
             </div>
         </div>
     );
