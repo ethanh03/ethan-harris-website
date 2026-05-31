@@ -13,7 +13,7 @@ const App = () => {
       <Background/>
       <div className="container">
         <About/>
-        <Title title="In-Progress Projects" subTitle="What I've Been Working On"/>
+        <Title title="Projects" subTitle="What I've Been Up To"/>
         <Projects/>
         <Title title="Contact Me" subTitle="Stay in touch"/>
         <Contact/>

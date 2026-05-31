@@ -37,7 +37,7 @@ const Contact = () => {
             to project ideas to musical collaborations! I am also always open to connecting 
             with new people passionate about the same things :&#41; </p>
             <ul>
-                <li>ethan.harris3@utexas.edu</li>
+                <li>ethan.j.harris@gmail.com</li>
                 <li>+1 (682) 219-6150</li>
                 <li>https://www.linkedin.com/in/ethan-harris-138382153/</li>
             </ul>

@@ -13,18 +13,6 @@ const Projects = () => {
                 <p>GAMES</p>
             </div>
         </div>
-        <div className="project">
-            <img src={minecraft_mods} alt=''/>
-            <div className="caption">
-                <p>MINECRAFT MODS</p>
-            </div>
-        </div>
-        <div className="project">
-            <img src={zombies_maps} alt=''/>
-            <div className="caption">            
-                <p>ZOMBIES MAPS</p>
-            </div>
-        </div>
     </div>
     )
 }
