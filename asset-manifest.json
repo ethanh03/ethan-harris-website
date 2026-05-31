@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ethan-harris-website/static/css/main.a063f9b3.css",
-    "main.js": "/ethan-harris-website/static/js/main.9878d969.js",
+    "main.css": "/ethan-harris-website/static/css/main.0bc75cd7.css",
+    "main.js": "/ethan-harris-website/static/js/main.7eab8220.js",
     "static/js/453.86d436bf.chunk.js": "/ethan-harris-website/static/js/453.86d436bf.chunk.js",
     "static/media/Ethan_Headshot2.JPG": "/ethan-harris-website/static/media/Ethan_Headshot2.06ec6747c7d4b4e88a6e.JPG",
     "static/media/mail.jpg": "/ethan-harris-website/static/media/mail.f8956154d5eb279fbb2f.jpg",
     "index.html": "/ethan-harris-website/index.html",
-    "main.a063f9b3.css.map": "/ethan-harris-website/static/css/main.a063f9b3.css.map",
-    "main.9878d969.js.map": "/ethan-harris-website/static/js/main.9878d969.js.map",
+    "main.0bc75cd7.css.map": "/ethan-harris-website/static/css/main.0bc75cd7.css.map",
+    "main.7eab8220.js.map": "/ethan-harris-website/static/js/main.7eab8220.js.map",
     "453.86d436bf.chunk.js.map": "/ethan-harris-website/static/js/453.86d436bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a063f9b3.css",
-    "static/js/main.9878d969.js"
+    "static/css/main.0bc75cd7.css",
+    "static/js/main.7eab8220.js"
   ]
 }
