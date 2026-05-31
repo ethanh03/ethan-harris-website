@@ -3,44 +3,33 @@
     width: 90%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
-.project img{
+.game-container {
+    max-width: 1000px;
     width: 100%;
-    border-radius: 10px;
-    display: block;
+    text-align: center;
 }
 
-.project {
-    flex-basis: 31%;
-    position: relative;
+.game-play {
+    display: flex;
+    justify-content: center;
 }
 
-.caption{
-   border-radius: 10px; 
-   position: absolute;
-   top: 0;
-   left: 0;
-   bottom: 0;
-   right: 0;
-   background: rgba(136, 133, 131, 0.6);
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   flex-direction: column;
-   color: #fff;
-   cursor: pointer;
-   font-family: Arial;
-   letter-spacing: 2px;
-    font-weight: bold;
-   opacity: 0;
-   padding-top: 70%;
-   transition: 0.4s;
-
+.game-play iframe {
+    max-width: 100%;
+    height: auto;
 }
 
-.project:hover .caption{
-    opacity: 1;
-    padding-top: 0;
+.game-description {
+    margin-top: 20px;
+    text-align: left;
+    padding: 0 15px;
+}
+
+.game-description p {
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 10px;
 }
