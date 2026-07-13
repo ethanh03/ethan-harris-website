@@ -12,7 +12,7 @@ const App = () => {
   return (
       <>
       <Navbar />
-      <Background />
+      {/* <Background /> */}
       <div className="container">
         <About />
         <Title title="Projects" subTitle="What I've Been Up To" />
